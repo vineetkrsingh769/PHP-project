@@ -1,2 +1,2 @@
 # PHP-project
-Student Information System
+Serverside js project (Student Information System)
